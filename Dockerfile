@@ -1,5 +1,5 @@
 FROM centos
-MAINTAINER Merlin Bermudez <merlindaniel8@gmail.com>
+MAINTAINER mbermu "merlindaniel8@gmail.com"
 LABEL Vendor="CentOS"
 LABEL License=GPLv2
 
